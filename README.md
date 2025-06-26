@@ -10,10 +10,20 @@
 
 ## 📚 About Me
 
+-💻 Shajahan Imdaad
+-🎓 Undergraduate in Computing and Information Systems – Sabaragamuwa University of Sri Lanka (2 Years Completed)
+-📊 External Student in Financial Engineering – University of Colombo (UCSC, Level 1 Completed)
+-🌱 Passionate about data analysis, finance, and technology
+-🔧 Learning Python, SQL, and Git
+-📍 Based in Sri Lanka
+
+“Code is the bridge between logic and innovation.”
+
 - 🎓 Undergraduate at <a href="https://www.sab.ac.lk/">Sabragamuwa University of Sri Lanka</a>
 - 🌱 Currently learning and working with **Python,HTML, CSS, JavaScript, and C++**
 - 🤝 Open to collaboration in web development and related projects
 - ✨ Passionate about coding and exploring new technologies
+- 
 - 📫 Reach me at: **shajahanimdaad22@gmail.com**
 
 ---
