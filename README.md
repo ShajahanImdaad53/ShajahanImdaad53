@@ -23,7 +23,6 @@
 - 🌱 Currently learning and working with **Python,HTML, CSS, JavaScript, and C++**
 - 🤝 Open to collaboration in web development and related projects
 - ✨ Passionate about coding and exploring new technologies
-- 
 - 📫 Reach me at: **shajahanimdaad22@gmail.com**
 
 ---
