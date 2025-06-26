@@ -11,7 +11,7 @@
 ## 📚 About Me
 
 - 🎓 Undergraduate at <a href="https://www.sab.ac.lk/">Sabragamuwa University of Sri Lanka</a>
-- 🌱 Currently learning and working with **HTML, CSS, JavaScript, and C++**
+- 🌱 Currently learning and working with **Python,HTML, CSS, JavaScript, and C++**
 - 🤝 Open to collaboration in web development and related projects
 - ✨ Passionate about coding and exploring new technologies
 - 📫 Reach me at: **shajahanimdaad22@gmail.com**
