@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi,%20I'm%20Shajahan%20Imdaad!%20👋&fontSize=32&fontAlign=50&fontColor=ffffff" alt="Welcome banner" />
+</p>
 
-<!--
-**ShajahanImdaad53/ShajahanImdaad53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Undergraduate at <a href="https://www.sab.ac.lk/">Sabragamuwa University of Sri Lanka</a></b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 About Me
+
+- 🎓 Undergraduate at <a href="https://www.sab.ac.lk/">Sabragamuwa University of Sri Lanka</a>
+- 🌱 Currently learning and working with **HTML, CSS, JavaScript, and C++**
+- 🤝 Open to collaboration in web development and related projects
+- ✨ Passionate about coding and exploring new technologies
+- 📫 Reach me at: **shajahanimdaad22@gmail.com**
+
+---
+
+## 🛠 Skills & Technologies
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+**Programming Languages:**  
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:shajahanimdaad22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shajahan-imdaad-75094229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 👁️ Visitor Counter
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ShajahanImdaad53/count.svg" />
+</p>
