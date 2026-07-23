@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320">
+  <style>
+    .bubble-container {
+      animation: float 4s ease-in-out infinite;
+    }
+    .box {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 2px;
+      rx: 12px;
+      transition: all 0.3s ease;
+    }
+    .text {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: 700;
+      fill: #c9d1d9;
+      font-size: 14px;
+      text-anchor: middle;
+    }
+    @keyframes float {
+      0% { transform: translateY(0px); filter: drop-shadow(0px 0px 0px rgba(0, 255, 163, 0)); }
+      50% { transform: translateY(-10px); filter: drop-shadow(0px 8px 12px rgba(0, 255, 163, 0.3)); stroke: #00ffa3; }
+      100% { transform: translateY(0px); filter: drop-shadow(0px 0px 0px rgba(0, 255, 163, 0)); }
+    }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="320" fill="url(#bg)" rx="15" stroke="#30363d" stroke-width="2"/>
+
+    <g class="bubble-container" style="animation-delay: 0.86s;" transform="translate(25, 40)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">🐍 Python</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 2.76s;" transform="translate(150, 40)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">🔥 PyTorch</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 1.82s;" transform="translate(275, 40)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">🧠 TensorFlow</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 0.69s;" transform="translate(400, 40)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">📊 Scikit-learn</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 1.11s;" transform="translate(525, 40)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">🔢 NumPy</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 2.81s;" transform="translate(650, 40)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">🐼 Pandas</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 2.09s;" transform="translate(25, 120)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">📓 Jupyter</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 0.45s;" transform="translate(150, 120)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">🐘 PostgreSQL</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 2.63s;" transform="translate(275, 120)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">📁 Git</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 0.33s;" transform="translate(400, 120)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">🐙 GitHub</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 2.85s;" transform="translate(525, 120)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">💻 VSCode</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 3.0s;" transform="translate(650, 120)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">🐳 Docker</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 2.99s;" transform="translate(25, 200)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">🌐 HTML</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 0.59s;" transform="translate(150, 200)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">🎨 CSS</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 1.46s;" transform="translate(275, 200)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">⚡ JS</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 1.66s;" transform="translate(400, 200)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">⚛️ React</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 1.57s;" transform="translate(525, 200)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">🟢 Node.js</text>
+    </g>
+    <g class="bubble-container" style="animation-delay: 1.63s;" transform="translate(650, 200)">
+      <rect class="box" x="0" y="0" width="115" height="40" />
+      <text class="text" x="57" y="25">⚙️ C++</text>
+    </g></svg>

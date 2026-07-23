@@ -11,9 +11,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ShajahanImdaad53"><img src="https://komarev.com/ghpvc/?username=ShajahanImdaad53&color=00ffa3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-  <a href="https://www.linkedin.com/in/imdaad-shajahan-75094229a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:shajahanimdaad22@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/main/assets/portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://github.com/ShajahanImdaad53"><img src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/main/assets/github.svg" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/imdaad-shajahan-75094229a"><img src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/main/assets/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="mailto:shajahanimdaad22@gmail.com"><img src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/main/assets/email.svg" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -63,15 +64,9 @@ me.say_hi()
 
 ### 🚀 `> tech_arsenal`
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit,numpy,pandas&theme=dark" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=jupyter,postgres,git,github,vscode,docker&theme=dark" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,react,nodejs&theme=dark" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/main/assets/tech_stack.svg" alt="Animated Tech Stack" />
+</div>
 
 ---
 

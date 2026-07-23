@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="60">
+  <style>
+    .btn {
+      fill: url(#grad);
+      rx: 8px;
+      transform-origin: center;
+      animation: pulse 2s infinite 0.6s;
+    }
+    .text {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 16px;
+      font-weight: 800;
+      fill: white;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      pointer-events: none;
+      transform-origin: center;
+      animation: pulse-text 2s infinite 0.6s;
+      letter-spacing: 1px;
+    }
+    @keyframes pulse {
+      0% { filter: drop-shadow(0 0 5px #EA4335); transform: scale(1); }
+      50% { filter: drop-shadow(0 0 15px #EA4335); transform: scale(1.03); }
+      100% { filter: drop-shadow(0 0 5px #EA4335); transform: scale(1); }
+    }
+    @keyframes pulse-text {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.03); }
+      100% { transform: scale(1); }
+    }
+  </style>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EA4335;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B31412;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect class="btn" x="10" y="10" width="200" height="40" />
+  <text class="text" x="110" y="32">📧 EMAIL ME</text>
+</svg>
