@@ -73,6 +73,13 @@ me.say_hi()
 ### 📈 `> github_analytics`
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <br/><br/>
 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShajahanImdaad53&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffa3&icon_color=00ffa3&text_color=7b8aad&count_private=true&animation=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShajahanImdaad53&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffa3&text_color=7b8aad" />
