@@ -11,10 +11,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://shajahanimdaad53.github.io/Portfolio/"><img src="assets/portfolio.svg" alt="Portfolio" /></a>
-  <a href="https://github.com/ShajahanImdaad53"><img src="assets/github.svg" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/imdaad-shajahan-75094229a"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:shajahanimdaad22@gmail.com"><img src="assets/email.svg" alt="Email" /></a>
+  <a href="https://shajahanimdaad53.github.io/Portfolio/"><img src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/main/assets/portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://github.com/ShajahanImdaad53"><img src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/main/assets/github.svg" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/imdaad-shajahan-75094229a"><img src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/main/assets/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="mailto:shajahanimdaad22@gmail.com"><img src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/main/assets/email.svg" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ me.say_hi()
     </td>
     <td valign="center" width="40%">
       <div align="center">
-        <img src="assets/ai_engineer.jpg" width="250" style="border-radius: 15px;" alt="AI Engineer Illustration" />
+        <img src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/main/assets/ai_engineer.jpg" width="250" style="border-radius: 15px;" alt="AI Engineer Illustration" />
       </div>
     </td>
   </tr>
@@ -65,7 +65,7 @@ me.say_hi()
 ### 🚀 `> tech_arsenal`
 
 <div align="center">
-  <img src="assets/tech_stack.svg" alt="Animated Tech Stack" />
+  <img src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/main/assets/tech_stack.svg" alt="Animated Tech Stack" />
 </div>
 
 ---
@@ -73,13 +73,7 @@ me.say_hi()
 ### 📈 `> github_analytics`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/output/github-contribution-grid-snake.svg">
-  </picture>
 
-  <br/><br/>
 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShajahanImdaad53&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffa3&icon_color=00ffa3&text_color=7b8aad&count_private=true&animation=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShajahanImdaad53&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffa3&text_color=7b8aad" />
