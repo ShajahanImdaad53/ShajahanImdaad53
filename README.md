@@ -28,6 +28,17 @@
 
 <br />
 
+## 🐍 GitHub Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShajahanImdaad53/ShajahanImdaad53/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br />
+
 ## 📈 GitHub Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShajahanImdaad53&bg_color=0D1117&color=70A5FD&line=38BDAE&point=BF74DD&area=true&hide_border=true" alt="ShajahanImdaad53's Activity Graph" width="100%" />
