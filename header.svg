@@ -26,20 +26,11 @@
   
   <!-- Animated liquid blobs behind the glass -->
   <g opacity="0.6">
-    <circle cx="200" cy="120" r="100" fill="url(#blob1)">
-      <animate attributeName="cy" values="120; 160; 120" dur="6s" repeatCount="indefinite" />
-      <animate attributeName="cx" values="200; 240; 200" dur="8s" repeatCount="indefinite" />
-    </circle>
+    <circle cx="200" cy="120" r="100" fill="url(#blob1)" />
     
-    <circle cx="650" cy="100" r="120" fill="url(#blob2)">
-      <animate attributeName="cy" values="100; 60; 100" dur="7s" repeatCount="indefinite" />
-      <animate attributeName="cx" values="650; 600; 650" dur="9s" repeatCount="indefinite" />
-    </circle>
+    <circle cx="650" cy="100" r="120" fill="url(#blob2)" />
 
-    <circle cx="420" cy="180" r="140" fill="url(#blob3)">
-      <animate attributeName="cy" values="180; 140; 180" dur="8s" repeatCount="indefinite" />
-      <animate attributeName="cx" values="420; 480; 420" dur="10s" repeatCount="indefinite" />
-    </circle>
+    <circle cx="420" cy="180" r="140" fill="url(#blob3)" />
   </g>
 
   <!-- Glass Morphism Card -->
