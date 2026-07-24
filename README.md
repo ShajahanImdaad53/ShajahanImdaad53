@@ -29,23 +29,21 @@
 
 <br />
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShajahanImdaad53&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="ShajahanImdaad53 Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShajahanImdaad53&bg_color=0D1117&color=70A5FD&line=38BDAE&point=BF74DD&area=true&hide_border=true" alt="ShajahanImdaad53's Activity Graph" width="100%" />
 </div>
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShajahanImdaad53&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=38BDAE&icon_color=BF74DD" alt="ShajahanImdaad53's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShajahanImdaad53&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=38BDAE&icon_color=BF74DD" alt="ShajahanImdaad53's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShajahanImdaad53&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF74DD&currStreakLabel=70A5FD" alt="ShajahanImdaad53's Streak Stats" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShajahanImdaad53&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=38BDAE" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShajahanImdaad53&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=38BDAE" alt="Top Languages" />
 </div>
 
 ## 💻 Tech Stack & Tools
