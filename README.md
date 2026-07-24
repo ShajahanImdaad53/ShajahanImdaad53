@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Shajahan%20Imdaad&fontSize=45&fontAlignY=35&animation=twinkling&desc=AI%20%26%20Data%20Scientist&descAlignY=55&descSize=25" width="100%" alt="Header Background" />
+  <img src="header.svg" width="100%" alt="Header Background" />
 </div>
 
 <br />
@@ -58,5 +58,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&text=Thanks%20for%20dropping%20by!&fontSize=24&fontAlignY=80" width="100%" alt="Footer Background" />
+  <img src="footer.svg" width="100%" alt="Footer Background" />
 </div>

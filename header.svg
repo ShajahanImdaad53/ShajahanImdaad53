@@ -1,0 +1,54 @@
+<svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Liquid Gradients -->
+    <linearGradient id="blob1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#70A5FD" />
+      <stop offset="100%" stop-color="#38BDAE" />
+    </linearGradient>
+    <linearGradient id="blob2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#BF74DD" />
+      <stop offset="100%" stop-color="#70A5FD" />
+    </linearGradient>
+    <linearGradient id="blob3" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38BDAE" />
+      <stop offset="100%" stop-color="#00f2fe" />
+    </linearGradient>
+    
+    <!-- Glass effect filter -->
+    <filter id="glass" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Deep dark background matching Tokyo Night -->
+  <rect width="100%" height="100%" fill="#0D1117" />
+  
+  <!-- Animated liquid blobs behind the glass -->
+  <g opacity="0.6">
+    <circle cx="200" cy="120" r="100" fill="url(#blob1)">
+      <animate attributeName="cy" values="120; 160; 120" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="cx" values="200; 240; 200" dur="8s" repeatCount="indefinite" />
+    </circle>
+    
+    <circle cx="650" cy="100" r="120" fill="url(#blob2)">
+      <animate attributeName="cy" values="100; 60; 100" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="cx" values="650; 600; 650" dur="9s" repeatCount="indefinite" />
+    </circle>
+
+    <circle cx="420" cy="180" r="140" fill="url(#blob3)">
+      <animate attributeName="cy" values="180; 140; 180" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="cx" values="420; 480; 420" dur="10s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Glass Morphism Card -->
+  <rect x="80" y="45" width="640" height="160" rx="20" fill="rgba(255, 255, 255, 0.03)" stroke="rgba(255, 255, 255, 0.15)" stroke-width="1.5" style="backdrop-filter: blur(10px);" />
+  
+  <!-- Subtle lighting on the glass edge -->
+  <rect x="80" y="45" width="640" height="160" rx="20" fill="none" stroke="url(#blob1)" stroke-width="1" opacity="0.5" />
+
+  <!-- Text Content -->
+  <text x="400" y="115" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1">Hi There! 👋 I'm Shajahan Imdaad</text>
+  <text x="400" y="165" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#70A5FD" text-anchor="middle" letter-spacing="2">AI &amp; DATA SCIENTIST</text>
+</svg>
