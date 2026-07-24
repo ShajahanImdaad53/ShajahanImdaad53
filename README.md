@@ -1,20 +1,19 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Shajahan%20Imdaad&fontSize=45&fontAlignY=35&animation=twinkling&desc=Passionate%20Developer&descAlignY=55&descSize=25" width="100%" alt="Header Background" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Shajahan%20Imdaad&fontSize=45&fontAlignY=35&animation=twinkling&desc=AI%20%26%20Data%20Scientist&descAlignY=55&descSize=25" width="100%" alt="Header Background" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=25&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Technologies" alt="Typing Text Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=25&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=AI+%26+Data+Scientist;ML+Engineer;Data+Engineer" alt="Typing Text Animation" />
 </div>
 
 <br />
 
 <!-- Portfolio Button and Socials -->
 <div align="center">
-  <!-- Replace href with your actual portfolio URL -->
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://shajahanimdaad53.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio Button" />
   </a>
   <!-- Replace href with your actual LinkedIn URL -->
@@ -50,7 +49,7 @@
 <div align="center">
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark" alt="Skills" />
+      <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,docker,aws,mysql,postgres,mongodb,git,github,vscode&theme=dark" alt="Skills" />
     </a>
   </p>
 </div>
